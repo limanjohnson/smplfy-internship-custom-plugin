@@ -1,11 +1,11 @@
 <?php
 /**
-* Plugin Name: smplfy plugin
-* Plugin URI: https://vojay.de/
-* Description: Boilerplate to develop your own WordPress plugin
+* Plugin Name: smplfy intern plugin
+* Plugin URI: https://github.com/limanjohnson/smplfy-internship-custom-plugin
+* Description: Using Volker Janz's boilerplate for custom wp plugin
 * Version: 0.1
 * Author: Liam Nell
-* Author URI: https://vojay.de/
+* Author URI: https://github.com/limanjohnson/smplfy-internship-custom-plugin
 **/
 
 // global variables for your plugin

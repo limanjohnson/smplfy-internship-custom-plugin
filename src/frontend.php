@@ -9,6 +9,7 @@ function render() {
         
         <div class="wrap">
             <h2>Hello World!</h2>
+            <p>This is Liam's custom plugin for the internship</p>
         </div>
 
     <?php
